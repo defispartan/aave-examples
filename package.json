@@ -1,0 +1,24 @@
+{
+  "name": "aave-examples",
+  "author": "defispartan",
+  "version": "1.0.0",
+  "description": "Typescript examples to interact with Aave Protocol",
+  "scripts": {},
+  "keywords": [
+    "Aave",
+    "DeFi"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@aave/contract-helpers": "^1.30.5",
+    "@aave/math-utils": "^1.30.5",
+    "@bgd-labs/aave-address-book": "^4.7.3",
+    "dayjs": "^1.11.13",
+    "ethers": "^5.5.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2",
+    "@ethersproject/providers": "^5.5.3"
+  }
+}
